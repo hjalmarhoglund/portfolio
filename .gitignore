@@ -1,0 +1,2 @@
+## Avoid .DS_Store in MacOS folders
+*.DS_Store
